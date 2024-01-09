@@ -1,0 +1,38 @@
+=== User Roles and Capabilities Display ===
+Contributors: Juan Luis Martel
+Tags: roles, capabilities, shortcode, display
+Requires at least: 5.0
+Tested up to: 5.7
+Stable tag: 1.0.0
+License: GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Un plugin simple para mostrar los roles de usuario y sus capacidades activas en WordPress mediante un shortcode.
+
+== Description ==
+
+El plugin "User Roles and Capabilities Display" permite mostrar una lista de los roles de usuario de WordPress y sus capacidades activas a través de un shortcode. Esta herramienta es ideal para administradores de sitios que necesitan una manera rápida y sencilla de revisar los roles y capacidades de su sitio.
+
+== Installation ==
+
+1. Sube los archivos del plugin al directorio `/wp-content/plugins/user-roles-and-capabilities-display`, o instala el plugin directamente a través de la pantalla de plugins de WordPress.
+2. Activa el plugin a través de la pantalla 'Plugins' en WordPress.
+3. Usa el shortcode `[display_user_roles]` en páginas o entradas para mostrar los roles y capacidades.
+
+== Frequently Asked Questions ==
+
+= ¿Este plugin necesita configuración? =
+No, solo instala y usa el shortcode donde necesites.
+
+= ¿Puedo personalizar el estilo de la salida? =
+Sí, puedes añadir tus propios estilos CSS para personalizar la apariencia de la salida del shortcode.
+
+== Changelog ==
+
+= 1.0.0 =
+* Lanzamiento inicial.
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Versión inicial.
